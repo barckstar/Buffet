@@ -1,0 +1,55 @@
+{
+    "url_navbar": [
+        {
+            "url": "/",
+            "title": "Home"
+        },
+        {
+            "url": "/servicios",
+            "title": "Servicios"
+        },
+        {
+            "url": "/acerca",
+            "title": "Acerca"
+        },
+        {
+            "url": "/contacto",
+            "title": "Contacto"
+        }
+    ],
+    "equipo": [
+        {
+            "name": "Alper Kamu",
+            "title": "UI Developer",
+            "description": "DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.",
+            "image": "/pexels-kampus-8428055.jpg",
+            "socials": {
+                "facebook": "#",
+                "twitter": "#",
+                "linkedin": "#"
+            }
+        },
+        {
+            "name": "Alper Kamu",
+            "title": "UI Developer",
+            "description": "DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.",
+            "image": "/pexels-pavel-danilyuk-8112111.jpg",
+            "socials": {
+                "facebook": "#",
+                "twitter": "#",
+                "linkedin": "#"
+            }
+        },
+        {
+            "name": "Alper Kamu",
+            "title": "UI Developer",
+            "description": "DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.",
+            "image": "/pexels-kampus-8428100.jpg",
+            "socials": {
+                "facebook": "#",
+                "twitter": "#",
+                "linkedin": "#"
+            }
+        }
+    ]
+}

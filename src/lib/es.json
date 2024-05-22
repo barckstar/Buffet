@@ -1,0 +1,50 @@
+{
+    "home": {
+        "titulo": "Bufete de abogados",
+        "nombre": "Lic. Antonio Vargas",
+        "desc": "La mejor asesoria legal en costa rica",
+        "button": "Consulta",
+        "hero": {
+            "titulo": "Healthy Smile",
+            "desc": "Meggings kinfolk echo park stumptown DIY, kale chips beardjianbing tousled. Chambray dreamcatcher trust fund, kitsch vicegodard disrupt ramps hexagon mustache umami snackwave tildechillwave ugh. Pour-over meditation PBR&B pickled ennui celiacmlkshk freegan photo booth af fingerstache pitchfork."
+        }
+    },
+    "acerca": {
+        "hero": {
+            "titulo": "Acerca",
+            "desc": "Meggings kinfolk echo park stumptown DIY, kale chips beardjianbing tousled.Meggings kinfolk echo park stumptown DIY, kale chips beardjianbing tousled.Meggings kinfolk echo park stumptown DIY, kale chips beardjianbing tousled.Meggings kinfolk echo park stumptown DIY, kale chips beardjianbing tousled."
+        }
+    },
+    "contect_services": [
+        {
+            "title": "Steel",
+            "description": "Description ...",
+            "img": "/606x366.png"
+        },
+        {
+            "title": "Steel",
+            "description": "Description ...",
+            "img": "/606x366.png"
+        },
+        {
+            "title": "Steel",
+            "description": "Description ...",
+            "img": "/606x366.png"
+        },
+        {
+            "title": "Steel",
+            "description": "Description ...",
+            "img": "/606x366.png"
+        },
+        {
+            "title": "Steel",
+            "description": "Description ...",
+            "img": "/606x366.png"
+        },
+        {
+            "title": "Steel",
+            "description": "Description ...",
+            "img": "/606x366.png"
+        }
+    ]
+}
