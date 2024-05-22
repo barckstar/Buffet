@@ -14,7 +14,7 @@ const equipo = () => {
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
               Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
               gentrify, subway tile poke farm-to-table. Franzen you probably
-              haven't heard of them.
+              haven`&apost heard of them.
             </p>
           </div>
           <div className="flex flex-wrap justify-center -m-4">
